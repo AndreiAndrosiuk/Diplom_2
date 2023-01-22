@@ -1,0 +1,5 @@
+ordertest/CreateOrderTest.class
+usertest/CreateUserTest.class
+ordertest/OrderListTest.class
+usertest/ChangeUserTest.class
+usertest/AuthorizationUserTest.class
