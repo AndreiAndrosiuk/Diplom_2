@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: usertest.ChangeUserTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.804 s - in usertest.ChangeUserTest

@@ -1,0 +1,9 @@
+user/UserClient.class
+order/OrderClient.class
+configuration/Configuration.class
+ingredient/IngredientClient.class
+configuration/BaseClient.class
+order/Order.class
+user/User.class
+ingredient/Ingredients.class
+ingredient/IngredientData.class
